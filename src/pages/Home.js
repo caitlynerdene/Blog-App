@@ -14,7 +14,7 @@ export const Home = () => {
       <h1>Homepage</h1>
       <Link to="/sign-in">Log in</Link>
 
-      <Link to="/error-page">Test Error Page</Link>
+      <Link to="/404">Test Error Page</Link>
     </div>
   );
 };
