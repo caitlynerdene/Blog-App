@@ -28,7 +28,7 @@ export const ErrorPage = () => {
           style={{
             height: "120px",
             width: "1px",
-            backgroundColor: "#E5E7EB",
+            backgroundColor: "white",
           }}
         ></div>
 

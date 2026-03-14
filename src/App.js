@@ -11,7 +11,7 @@ export const App = () => {
         <Route path="/" element={<Home />} />
         <Route path="/sign-up" element={<SignUp />} />
         <Route path="/sign-in" element={<SignIn />} />
-        <Route path="/error-page" element={<ErrorPage />} />
+        <Route path="/404" element={<ErrorPage />} />
       </Routes>
     </BrowserRouter>
   );
