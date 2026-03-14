@@ -12,7 +12,7 @@ export const Home = () => {
       }}
     >
       <h1>Homepage</h1>
-      <Link to="/sign-up">Go to Sign Up</Link>
+      <Link to="/sign-in">Log in</Link>
     </div>
   );
 };
